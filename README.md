@@ -12,7 +12,7 @@
 <table>
 <thead>
   <tr>
-    <td color="681AFF">React</td>
+    <td>React</td>
     <td>Redux</td>
     <td>JS</td>
     <td>Ruby</td>
