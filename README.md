@@ -3,8 +3,10 @@
 </p>
 
 <div background-color="000000" color="681AFF">
-  Hello there! I am a software engineer who is passionate about working with both humans and machines. When communicating with people, I prefer speaking in English or Chinese; when communicating with computers, I prefer coding in Ruby or Javascript. Currently, my main project is a MERN stack app that connects people through similar gaming interests and promotes integrity and accountability in the gaming community. 
+  Hello there! I am a software engineer who is passionate about working with both humans and machines. When communicating with people, I prefer speaking in English or Chinese; when communicating with computers, I prefer coding in Ruby or Javascript. Currently, my main project is a MERN stack app that connects people through similar gaming interests and promotes integrity and accountability in the gaming community. Please feel free to connect with me on <a href="https://www.linkedin.com/in/garyhor65/">LinkedIn</a>!
 </div>
+
+<br />
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=g-hor&hide_title=true&theme=midnight-purple&show_icons=true">
