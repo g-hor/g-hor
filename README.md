@@ -1,4 +1,3 @@
-<img src="banner.png" align="center" width="100%">
 <div align="center">
 hello
 </div>
