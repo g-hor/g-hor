@@ -7,33 +7,26 @@
 </div>
 
 <br />
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9nfk{background-color:#000000;border-color:#343434;color:#681aff;font-family:Tahoma, Geneva, sans-serif !important;
-  font-size:16px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+
+
+<table>
 <thead>
   <tr>
-    <td class="tg-9nfk">React</td>
-    <td class="tg-9nfk">Redux</td>
-    <td class="tg-9nfk">JS</td>
-    <td class="tg-9nfk">Ruby</td>
-    <td class="tg-9nfk">Rails</td>
-    <td class="tg-9nfk">MongoDB</td>
-    <td class="tg-9nfk">Node.js</td>
-    <td class="tg-9nfk">Express</td>
-    <td class="tg-9nfk">jQuery</td>
-    <td class="tg-9nfk">SQL</td>
-    <td class="tg-9nfk">HTML</td>
-    <td class="tg-9nfk">CSS</td>
-    <td class="tg-9nfk">SASS</td>
-    <td class="tg-9nfk">D3</td>
-    <td class="tg-9nfk">AWS</td>
+    <td color="681AFF">React</td>
+    <td>Redux</td>
+    <td>JS</td>
+    <td>Ruby</td>
+    <td>Rails</td>
+    <td>MongoDB</td>
+    <td>Node.js</td>
+    <td>Express</td>
+    <td>jQuery</td>
+    <td>SQL</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>SASS</td>
+    <td>D3</td>
+    <td>AWS</td>
   </tr>
 </thead>
 </table>
