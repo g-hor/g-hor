@@ -8,6 +8,6 @@
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-hor&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-hor&layout=compact&theme=midnight-purple">
   </div>
 </div>
