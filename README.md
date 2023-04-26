@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=700&color=2F1576&background=FFFFFDE3&center=true&vCenter=true&width=500&lines=hi%2C+my+name+is+gary;and+i+am+a+fullstack+developer!;thanks+for+visiting!" alt="welcome to my github!">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=681AFF&background=000000&center=true&vCenter=true&width=500&lines=hi%2C+my+name+is+gary;i+am+a+full+stack+developer;thanks+for+visiting!" alt="Typing SVG" /></a>
 </p>
 
-<div><!-- .element: style="display: flex; flex-direction: row;" -->
+<div>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=g-hor">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide_title=true&theme=midnight-purple&show_icons=true">
   </div>
 
   <div align="center">
