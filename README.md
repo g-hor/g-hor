@@ -24,7 +24,6 @@
     <td>SQL</td>
     <td>HTML</td>
     <td>CSS</td>
-    <td>SASS</td>
     <td>D3</td>
     <td>AWS</td>
   </tr>
@@ -34,6 +33,6 @@
 <br />
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=g-hor&hide_title=true&theme=midnight-purple&show_icons=true">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=g-hor&hide_title=true&theme=midnight-purple&show_icons=true"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-hor&layout=compact&theme=midnight-purple">
 </div>
