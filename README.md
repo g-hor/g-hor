@@ -20,7 +20,6 @@
     <td>MongoDB</td>
     <td>Node.js</td>
     <td>Express</td>
-    <td>jQuery</td>
     <td>SQL</td>
     <td>HTML</td>
     <td>CSS</td>
