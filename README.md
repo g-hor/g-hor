@@ -9,24 +9,24 @@
 <br />
 
 
-<table>
-<thead>
-  <tr>
-    <td>React</td>
-    <td>Redux</td>
-    <td>JS</td>
-    <td>Ruby</td>
-    <td>Rails</td>
-    <td>MongoDB</td>
-    <td>Node.js</td>
-    <td>Express</td>
-    <td>SQL</td>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>D3</td>
-    <td>AWS</td>
-  </tr>
-</thead>
+<table align="center">
+  <thead>
+    <tr>
+      <td>React</td>
+      <td>Redux</td>
+      <td>JS</td>
+      <td>Ruby</td>
+      <td>Rails</td>
+      <td>MongoDB</td>
+      <td>Node.js</td>
+      <td>Express</td>
+      <td>SQL</td>
+      <td>HTML</td>
+      <td>CSS</td>
+      <td>D3</td>
+      <td>AWS</td>
+    </tr>
+  </thead>
 </table>
 
 <br />
