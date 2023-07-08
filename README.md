@@ -17,6 +17,7 @@
       <td>JS</td>
       <td>Ruby</td>
       <td>Rails</td>
+      <td>Python</td>
       <td>MongoDB</td>
       <td>Node.js</td>
       <td>Express</td>
