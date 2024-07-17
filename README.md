@@ -3,28 +3,27 @@
 </p>
 
 <div background-color="000000" color="681AFF">
-  Hello there! I am a software engineer who is passionate about working with both humans and machines. When communicating with people, I prefer speaking in English or Chinese; when communicating with computers, I prefer coding in Ruby or Javascript. Currently, my main project is a MERN stack app that connects people through similar gaming interests and promotes integrity and accountability in the gaming community. To strengthen my proficiency in the back end, I am learning Python! Please feel free to connect with me on <a href="https://www.linkedin.com/in/garyhor65/">LinkedIn</a> or <a href="https://wellfound.com/u/gary-hor-1">Wellfound</a>!
+  Hello there! I am a software engineer who is passionate about working with both humans and machines. When communicating with people, I prefer speaking in English or Chinese; when communicating with computers, I prefer coding in Ruby or Javascript. I'm always on the lookout for new ideas and fresh perspectives. Feel free to connect with me on <a href="https://www.linkedin.com/in/g-hor/">LinkedIn</a> and talk with me about anything! Believe it!
 </div>
 
 <br />
 
-
 <table align="center">
   <thead>
     <tr>
+      <td>JavaScript</td>
+      <td>TypeScript</td>
+      <td>Ruby</td>
+      <td>Python</td>
+      <td>HTML</td>
+      <td>CSS</td>
+      <td>SQL</td>
       <td>React</td>
       <td>Redux</td>
-      <td>JS</td>
-      <td>Ruby</td>
       <td>Rails</td>
-      <td>Python</td>
       <td>MongoDB</td>
       <td>Node.js</td>
       <td>Express</td>
-      <td>SQL</td>
-      <td>HTML</td>
-      <td>CSS</td>
-      <td>D3</td>
       <td>AWS</td>
     </tr>
   </thead>
