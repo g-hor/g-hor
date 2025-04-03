@@ -23,10 +23,6 @@
       <td>Express</td>
       <td>NestJS</td>
       <td>AWS</td>
-      <td>HTML</td>
-      <td>CSS</td>
     </tr>
   </thead>
 </table>
-
-<br />
