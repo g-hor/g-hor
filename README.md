@@ -3,7 +3,7 @@
 </p>
 
 <div background-color="000000" color="681AFF">
-  Hello there! I am a software engineer who is passionate about working with both humans and machines. When communicating with people, I prefer speaking in English or Chinese; when communicating with computers, I prefer coding in Ruby or Javascript. I'm always on the lookout for new ideas and fresh perspectives. Feel free to connect with me on <a href="https://www.linkedin.com/in/g-hor/">LinkedIn</a> and talk with me about anything! Believe it!
+  Hello there! I am a software engineer who is passionate about working with both humans and machines. When communicating with people, I prefer speaking in English or Chinese; when communicating with computers, I prefer coding in Ruby or Javascript. I'm always on the lookout for new ideas and fresh perspectives. Connect with me on <a href="https://www.linkedin.com/in/g-hor/">LinkedIn</a>!
 </div>
 
 <br />
