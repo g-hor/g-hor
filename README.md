@@ -30,8 +30,3 @@
 </table>
 
 <br />
-
-<!-- div align="center" -->
-    <!-- img src="https://github-readme-stats.vercel.app/api?username=g-hor&hide_title=true&theme=midnight-purple&show_icons=true" -->
-    <!-- img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-hor&layout=compact&theme=midnight-purple" -->
-<!-- /div -->
