@@ -14,24 +14,24 @@
       <td>JavaScript</td>
       <td>TypeScript</td>
       <td>Ruby</td>
-      <td>Python</td>
-      <td>HTML</td>
-      <td>CSS</td>
-      <td>SQL</td>
       <td>React</td>
       <td>Redux</td>
+      <td>SQL</td>
       <td>Rails</td>
       <td>MongoDB</td>
       <td>Node.js</td>
       <td>Express</td>
+      <td>NestJS</td>
       <td>AWS</td>
+      <td>HTML</td>
+      <td>CSS</td>
     </tr>
   </thead>
 </table>
 
 <br />
 
-<div align="center">
+<!--div align="center">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=g-hor&hide_title=true&theme=midnight-purple&show_icons=true"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-hor&layout=compact&theme=midnight-purple">
-</div>
+<!--/div>
